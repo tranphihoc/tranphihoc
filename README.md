@@ -27,11 +27,7 @@
 
 <h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
 <div align="center">
-<a href="https://www.upwork.com/freelancers/~016168d191a73ccc35" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X" width="36" height="36" alt="HTML5" /></a>
-</div>
 
-<p align="center">
-  <img src="[https://github.com/tranphihoc/tranphihoc/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003](https://github.com/tranphihoc)" alt="giphy" />
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
