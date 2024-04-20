@@ -22,7 +22,7 @@
 <div align="center"> 
   <a href="mailto:tranphihoctrasuo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>">
+  </a>
 </div>
 
 <h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
